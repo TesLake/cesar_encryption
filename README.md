@@ -1,6 +1,6 @@
 # Cesar Encryption
-###Python and TKinter
+### Python and TKinter
 
-##Images:
+## Images:
 
 ![alt text](https://imgur.com/WjGPVKS.png)
